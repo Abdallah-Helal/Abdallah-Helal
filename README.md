@@ -32,7 +32,7 @@ I am a third year computer science bachelor I look forward to be a full stack de
 ## Connect with me:
 <p align="center">
  <a href="mailto:abdallahelal102@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-<a href="https://www.linkedin.com/in/abdalla-emad-40732b1b6/"  title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdalla-emad-40732b1b6/"  title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ### Find me around the web 🌎 
