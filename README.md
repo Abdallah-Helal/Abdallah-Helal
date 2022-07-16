@@ -37,7 +37,7 @@ I am a third year computer science bachelor I look forward to be a full stack de
 
 ### Find me around the web 🌎 
 
-- Practising on <a href="https://codeforces.com/profile/BALLOoo">Codeforces</a> 🙃
-- Practising on <a href="https://www.hackerrank.com/abdallaballo20?h_r=internal-search&hr_r=1">HackerRank</a> 🙃
+- Practising on <a href="https://codeforces.com/profile/BALLOoo" target="_blank">Codeforces</a> 🙃
+- Practising on <a href="https://www.hackerrank.com/abdallaballo20?h_r=internal-search&hr_r=1" target="_blank">HackerRank</a> 🙃
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallah-helal&show_icons=true&locale=en&layout=compact" alt="abdallah-helal" /></p>
