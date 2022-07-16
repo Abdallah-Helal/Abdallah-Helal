@@ -5,7 +5,7 @@ I am a third year computer science bachelor I look forward to be a full stack de
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- 🌱 I’m currently learning **Network & API & Agile**
+- 🌱 I’m currently learning **API & Agile**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdallah-Helal](https://github.com/Abdallah-Helal)
 
