@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdallah Emad</h1>
 <h3 align="center">A passionate Full stack web developer from Egypt</h3>
 I am a third year computer science bachelor I look forward to be a full stack developer and a red teamer
-
+<div style="text-align:center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdallah-Helal&color=blueviolet)
+</div>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - 🌱 I’m currently learning **Agile**
