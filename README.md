@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Emad</h1>
-<h3 align="center">A passionate Full stack web developer & Red teamer</h3>
+<h3 align="center">A passionate penetration tester & Red teamer</h3>
 I am a senior computer science bachelor I look forward to be a full stack developer and a red teamer
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
